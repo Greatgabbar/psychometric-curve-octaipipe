@@ -138,7 +138,7 @@ A small number, where mistakes are easy to make and hard to spot:
 
 I wrote the app code myself and used Claude (Anthropic) as a helper along the
 way: to learn the domain, to get unstuck on specific problems, to write the
-tests, and to review my work.
+tests and the styling, and to review my work.
 
 - **Learning the domain.** Psychrometrics was new to me, so I started by asking
   Claude to teach me: what humidity ratio means, how the three formulas connect,
@@ -167,6 +167,7 @@ tests, and to review my work.
   testing (the cases listed under [Tests](#tests)), Claude wrote the test
   code, and I ran them and checked each expected value made sense, for example
   working out the 25 °C / 60% humidity value by hand.
+- **Styling.** The CSS (`styles.css`) was written by Claude.
 - **Review.** Once the code was written, I asked Claude to review it. I then
   went through what it suggested myself and only kept the changes I understood
   and agreed with.
