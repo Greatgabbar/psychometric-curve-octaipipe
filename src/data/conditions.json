@@ -1,0 +1,39 @@
+{
+  "site": {
+    "id": "site-1",
+    "name": "Hall A",
+    "envelope": {
+      "dryBulbMinC": 18,
+      "dryBulbMaxC": 27,
+      "rhMinPct": 20,
+      "rhMaxPct": 80,
+      "humidityRatioMaxGPerKg": 14
+    }
+  },
+  "readings": [
+    { "timestamp": "2026-08-24T08:00:00Z", "dryBulbC": 21.0, "rhPct": 45 },
+    { "timestamp": "2026-08-24T08:05:00Z", "dryBulbC": 21.4, "rhPct": 47 },
+    { "timestamp": "2026-08-24T08:10:00Z", "dryBulbC": 21.8, "rhPct": 50 },
+    { "timestamp": "2026-08-24T08:15:00Z", "dryBulbC": 22.3, "rhPct": 53 },
+    { "timestamp": "2026-08-24T08:20:00Z", "dryBulbC": 22.9, "rhPct": 57 },
+    { "timestamp": "2026-08-24T08:25:00Z", "dryBulbC": 23.6, "rhPct": 62 },
+    { "timestamp": "2026-08-24T08:30:00Z", "dryBulbC": 24.2, "rhPct": 68 },
+    { "timestamp": "2026-08-24T08:35:00Z", "dryBulbC": 24.9, "rhPct": 74 },
+    { "timestamp": "2026-08-24T08:40:00Z", "dryBulbC": 25.3, "rhPct": 79 },
+    { "timestamp": "2026-08-24T08:45:00Z", "dryBulbC": 25.6, "rhPct": 83 },
+    { "timestamp": "2026-08-24T08:50:00Z", "dryBulbC": 25.8, "rhPct": 86 },
+    { "timestamp": "2026-08-24T08:55:00Z", "dryBulbC": 26.4, "rhPct": 84 },
+    { "timestamp": "2026-08-24T09:00:00Z", "dryBulbC": 27.5, "rhPct": 78 },
+    { "timestamp": "2026-08-24T09:05:00Z", "dryBulbC": 27.2, "rhPct": 74 },
+    { "timestamp": "2026-08-24T09:10:00Z", "dryBulbC": 26.5, "rhPct": 70 },
+    { "timestamp": "2026-08-24T09:15:00Z", "dryBulbC": 25.8, "rhPct": 65 },
+    { "timestamp": "2026-08-24T09:20:00Z", "dryBulbC": 25.0, "rhPct": 60 },
+    { "timestamp": "2026-08-24T09:25:00Z", "dryBulbC": 24.2, "rhPct": 55 },
+    { "timestamp": "2026-08-24T09:30:00Z", "dryBulbC": 23.5, "rhPct": 50 },
+    { "timestamp": "2026-08-24T09:35:00Z", "dryBulbC": 22.8, "rhPct": 47 },
+    { "timestamp": "2026-08-24T09:40:00Z", "dryBulbC": 22.0, "rhPct": 45 },
+    { "timestamp": "2026-08-24T09:45:00Z", "dryBulbC": 21.5, "rhPct": 44 },
+    { "timestamp": "2026-08-24T09:50:00Z", "dryBulbC": 21.0, "rhPct": 43 },
+    { "timestamp": "2026-08-24T09:55:00Z", "dryBulbC": 20.6, "rhPct": 42 }
+  ]
+}
